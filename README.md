@@ -1,7 +1,7 @@
 
 # React Calculator App
 
-![React Calculator App](calculator-screenshot.png)
+![React Calculator App](https://pngtree.com/freepng/hand-drawn-black-calculator-illustration_4552458.html)
 
 ## Introduction
 
