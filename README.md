@@ -1,7 +1,7 @@
 
 # React Calculator App
 
-![React Calculator App](https://drive.google.com/file/d/1ogbLJKcpe8gwIbrvQgegopG0Cdm5kDKX/view?usp=sharing)
+![React Calculator App](calculator-screenshot.png)
 
 ## Introduction
 
